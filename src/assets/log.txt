@@ -1,0 +1,32 @@
+{"message":"IP: ::1, sort: ascending","level":"info"}
+{"message":"IP: ::1, sort: ascending","level":"info"}
+{"message":"IP: ::1, sort: ascending","level":"info"}
+{"message":"IP: ::1, sort: ascending","level":"info"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":{"user":{"_id":"5c72d4a9c157b823ede23413","username":"hey","password":"$2a$10$vvy3DfYQfCeBX3.lL33gjOOd7HUdwQHaooO.SuLZLqyQRabj0bHW.","createdAt":"2019-02-24T17:30:17.980Z","updatedAt":"2019-02-24T17:30:17.980Z","__v":0},"password":"hey2"},"level":"debug"}
+{"message":{"user":{"_id":"5c72d4a9c157b823ede23413","username":"hey","password":"$2a$10$vvy3DfYQfCeBX3.lL33gjOOd7HUdwQHaooO.SuLZLqyQRabj0bHW.","createdAt":"2019-02-24T17:30:17.980Z","updatedAt":"2019-02-24T17:30:17.980Z","__v":0},"password":"hey"},"level":"debug"}
+{"message":{"user":{"_id":"5c72d4a9c157b823ede23413","username":"hey","password":"$2a$10$vvy3DfYQfCeBX3.lL33gjOOd7HUdwQHaooO.SuLZLqyQRabj0bHW.","createdAt":"2019-02-24T17:30:17.980Z","updatedAt":"2019-02-24T17:30:17.980Z","__v":0},"password":{"hey":"hey"}},"level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"Connected to Database","level":"debug"}
+{"message":{"username":"hey","password":"hey"},"level":"debug"}
+{"message":{"user":{"_id":"5c72d4a9c157b823ede23413","username":"hey","password":"$2a$10$vvy3DfYQfCeBX3.lL33gjOOd7HUdwQHaooO.SuLZLqyQRabj0bHW.","createdAt":"2019-02-24T17:30:17.980Z","updatedAt":"2019-02-24T17:30:17.980Z","__v":0},"password":"hey"},"level":"debug"}
+{"message":"IP: ::1, sort: descending","level":"info"}
+{"message":"IP: ::1, sort: mixed","level":"info"}
+{"message":"IP: ::1, sort: mixed","level":"info"}
+{"message":"IP: ::1, sort: mixed","level":"info"}
+{"message":"IP: ::1, sort: mixed","level":"info"}
+{"message":"Connected to Database","level":"debug"}
+{"message":"IP: ::1, sort: descending","level":"info"}
+{"message":"IP: ::1, sort: ascending","level":"info"}
+{"message":{"username":"hey","password":"hey"},"level":"debug"}
+{"message":{"user":{"_id":"5c72d4a9c157b823ede23413","username":"hey","password":"$2a$10$vvy3DfYQfCeBX3.lL33gjOOd7HUdwQHaooO.SuLZLqyQRabj0bHW.","createdAt":"2019-02-24T17:30:17.980Z","updatedAt":"2019-02-24T17:30:17.980Z","__v":0},"password":"hey"},"level":"debug"}
+{"message":{"username":"hey26","password":"hey"},"level":"debug"}
